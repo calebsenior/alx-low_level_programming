@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _isalpha - Return 1 if c is an alphabetical character.
+ * _isalpha - Return 1 if c is an alphabetical character
  * @c: contains value to be printed
- * 
+ *
  * Return: Always 0.
  */
 int _isalpha(int c)
